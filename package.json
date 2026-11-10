@@ -1,0 +1,8 @@
+{
+  "name": "abeyance-demo",
+  "version": "0.0.1",
+  "description": "Tiny package used for the Abeyance real run",
+  "main": "index.js",
+  "scripts": { "test": "node test.js" },
+  "license": "MIT"
+}
